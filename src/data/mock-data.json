@@ -1,0 +1,48 @@
+[
+  {
+    "id": "f1",
+    "name": "Matematik-101",
+    "type": "folder",
+    "children": [
+      {
+        "id": "n1",
+        "name": "Türev Kuralları",
+        "content": "Çarpım ve bölüm türevi formülleri ezberlenecek."
+      },
+      {
+        "id": "n2",
+        "name": "Limit ve Süreklilik",
+        "content": "Sağdan ve soldan limit eşitliği süreklilik için şarttır."
+      }
+    ]
+  },
+  {
+    "id": "f2",
+    "name": "Programlama Temelleri",
+    "type": "folder",
+    "children": [
+      {
+        "id": "n3",
+        "name": "Değişken Tipleri",
+        "content": "Integer, Float, String ve Boolean veri tiplerinin farkları."
+      },
+      {
+        "id": "n4",
+        "name": "Döngüler",
+        "content": "For ve While döngüsü arasındaki farklar ve kullanım senaryoları."
+      }
+    ]
+  },
+  {
+    "id": "f3",
+    "name": "Genel Notlar",
+    "type": "folder",
+    "children": [
+      {
+        "id": "n5",
+        "name": "Kütüphane Üyeliği",
+        "content": "Öğrenci kartı ile kütüphaneden kitap alma prosedürü."
+      }
+    ]
+  }
+]

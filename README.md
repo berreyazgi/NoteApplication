@@ -2,7 +2,7 @@
 
 Bu proje, öğrencilerin notlarını, ders programlarını ve günlük görevlerini tek bir yerden yönetebileceği, **Samsung Notes** tasarım dilinden ilham alan, modern ve responsive bir web uygulamasıdır.
 
-> **Canlı Uygulama Linki:** (https://github.com/berreyazgi/NoteApplication) ---
+> **Canlı Uygulama Linki:** (https://berreyazgi.github.io/NoteApplication/)
 
 ## Özellikler
 
